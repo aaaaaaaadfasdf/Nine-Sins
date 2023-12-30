@@ -256,7 +256,7 @@ fontSize = 40; // Adjust this value to change the font size
 c.font = fontSize + "px " + fontFamily;
 let myString ="A forgotten prophecy unveils the imminent awakening of the Nine Sins,"
 c.fillText(myString,(canvas.width-c.measureText(myString).width)/2,canvas.height*85/100)
-myString ="but not mutch is known about them... this is a change"
+myString ="but not mutch is known about them... this is a changee"
 c.fillText(myString,(canvas.width-c.measureText(myString).width)/2,canvas.height*90/100)
 myString ="{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}  "
 c.fillText(myString,(canvas.width-c.measureText(myString).width)/2,canvas.height*95/100)
