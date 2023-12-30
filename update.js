@@ -19,7 +19,7 @@ function update() {
  }else{
   if (entities.length == 0) {
 
-    if(wavecount == 8){
+    if(wavecount == 17){
       endScreen()
     }
      else if (startmenu == true) {
